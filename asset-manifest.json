@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/departtment-react-website/static/css/main.97a03912.css",
+    "main.css": "/departtment-react-website/static/css/main.a6df1401.css",
     "main.js": "/departtment-react-website/static/js/main.24ccea5f.js",
     "static/media/ai.png": "/departtment-react-website/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/revicons.eot": "/departtment-react-website/static/media/revicons.a77de540a38981833f9e.eot",
@@ -8,11 +8,11 @@
     "static/media/revicons.woff": "/departtment-react-website/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/logo.svg": "/departtment-react-website/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "index.html": "/departtment-react-website/index.html",
-    "main.97a03912.css.map": "/departtment-react-website/static/css/main.97a03912.css.map",
+    "main.a6df1401.css.map": "/departtment-react-website/static/css/main.a6df1401.css.map",
     "main.24ccea5f.js.map": "/departtment-react-website/static/js/main.24ccea5f.js.map"
   },
   "entrypoints": [
-    "static/css/main.97a03912.css",
+    "static/css/main.a6df1401.css",
     "static/js/main.24ccea5f.js"
   ]
 }
