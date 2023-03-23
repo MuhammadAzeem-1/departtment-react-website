@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/departtment-react-website/static/css/main.02930b82.css",
-    "main.js": "/departtment-react-website/static/js/main.5ca6eb2a.js",
+    "main.js": "/departtment-react-website/static/js/main.c30a6856.js",
     "static/media/ai.png": "/departtment-react-website/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/iub_logo.png": "/departtment-react-website/static/media/iub_logo.bb6c2f18f1d346ebf4f1.png",
     "static/media/revicons.eot": "/departtment-react-website/static/media/revicons.a77de540a38981833f9e.eot",
@@ -10,10 +10,10 @@
     "static/media/logo.svg": "/departtment-react-website/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "index.html": "/departtment-react-website/index.html",
     "main.02930b82.css.map": "/departtment-react-website/static/css/main.02930b82.css.map",
-    "main.5ca6eb2a.js.map": "/departtment-react-website/static/js/main.5ca6eb2a.js.map"
+    "main.c30a6856.js.map": "/departtment-react-website/static/js/main.c30a6856.js.map"
   },
   "entrypoints": [
     "static/css/main.02930b82.css",
-    "static/js/main.5ca6eb2a.js"
+    "static/js/main.c30a6856.js"
   ]
 }
