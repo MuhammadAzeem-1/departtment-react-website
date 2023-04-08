@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/departtment-react-website/static/css/main.65feb685.css",
-    "main.js": "/departtment-react-website/static/js/main.f1294bf1.js",
+    "main.css": "/departtment-react-website/static/css/main.fb7ada40.css",
+    "main.js": "/departtment-react-website/static/js/main.b3f2ccc3.js",
     "static/media/techbost.jpg": "/departtment-react-website/static/media/techbost.7b4a0cec7655651d68fa.jpg",
     "static/media/dinner.jpg": "/departtment-react-website/static/media/dinner.b15d77a399f1da8c0cf3.jpg",
     "static/media/welcome.jpg": "/departtment-react-website/static/media/welcome.cccc71b74c324cca093a.jpg",
     "static/media/believeit.jpg": "/departtment-react-website/static/media/believeit.12bd96b7397d36506059.jpg",
     "static/media/header.png": "/departtment-react-website/static/media/header.77c9264218086ac5071c.png",
+    "static/media/SE.png": "/departtment-react-website/static/media/SE.4c83895a8b82a5471b2f.png",
     "static/media/interview.jpg": "/departtment-react-website/static/media/interview.75a55ddb1c70ffedbd0c.jpg",
     "static/media/connectedPakistan.jpg": "/departtment-react-website/static/media/connectedPakistan.64427ee6dc2d733444d5.jpg",
     "static/media/iub_logo.png": "/departtment-react-website/static/media/iub_logo.bb6c2f18f1d346ebf4f1.png",
     "static/media/revicons.eot": "/departtment-react-website/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/departtment-react-website/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/departtment-react-website/static/media/revicons.e8746a624ed098489406.woff",
-    "static/media/logo.svg": "/departtment-react-website/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "index.html": "/departtment-react-website/index.html",
-    "main.65feb685.css.map": "/departtment-react-website/static/css/main.65feb685.css.map",
-    "main.f1294bf1.js.map": "/departtment-react-website/static/js/main.f1294bf1.js.map"
+    "main.fb7ada40.css.map": "/departtment-react-website/static/css/main.fb7ada40.css.map",
+    "main.b3f2ccc3.js.map": "/departtment-react-website/static/js/main.b3f2ccc3.js.map"
   },
   "entrypoints": [
-    "static/css/main.65feb685.css",
-    "static/js/main.f1294bf1.js"
+    "static/css/main.fb7ada40.css",
+    "static/js/main.b3f2ccc3.js"
   ]
 }
