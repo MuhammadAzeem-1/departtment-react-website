@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/departtment-react-website/static/css/main.fb7ada40.css",
-    "main.js": "/departtment-react-website/static/js/main.b3f2ccc3.js",
+    "main.js": "/departtment-react-website/static/js/main.b7c50f9a.js",
     "static/media/techbost.jpg": "/departtment-react-website/static/media/techbost.7b4a0cec7655651d68fa.jpg",
     "static/media/dinner.jpg": "/departtment-react-website/static/media/dinner.b15d77a399f1da8c0cf3.jpg",
     "static/media/welcome.jpg": "/departtment-react-website/static/media/welcome.cccc71b74c324cca093a.jpg",
@@ -16,10 +16,10 @@
     "static/media/revicons.woff": "/departtment-react-website/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/departtment-react-website/index.html",
     "main.fb7ada40.css.map": "/departtment-react-website/static/css/main.fb7ada40.css.map",
-    "main.b3f2ccc3.js.map": "/departtment-react-website/static/js/main.b3f2ccc3.js.map"
+    "main.b7c50f9a.js.map": "/departtment-react-website/static/js/main.b7c50f9a.js.map"
   },
   "entrypoints": [
     "static/css/main.fb7ada40.css",
-    "static/js/main.b3f2ccc3.js"
+    "static/js/main.b7c50f9a.js"
   ]
 }
